@@ -67,6 +67,10 @@ body {
     font-size: var(--font-size-body);
     font-weight: var(--font-weight-title);
     color: var(--Bright-Yellow);
+   
+}
+.description{
+    color: var(--Grayish-Blue);
 }
 .price-container{
     color: var(--Light-Gray);
